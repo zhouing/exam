@@ -1,0 +1,13 @@
+[{
+  "id":1,
+  "name":"radio",
+  "relname":"单选题"
+},{
+  "id":2,
+  "name":"check",
+  "relname":"复选题"
+},{
+  "id":3,
+  "name":"question",
+  "relname":"简答题"
+}]

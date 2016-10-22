@@ -1,0 +1,63 @@
+[{
+  "analysis":"",
+  "answer":"A",
+  "choices":
+  [{
+    "id":38,
+    "content":"",
+    "correct":false
+  }, {
+    "id":39,
+    "content":"",
+    "correct":false
+  }, {
+    "id":40,
+    "content":"",
+    "correct":false
+  }, {
+    "id":37,
+    "content":"放的地方",
+    "correct":true
+  }],
+  "department": {
+    "id":1,
+    "name":"WebUI"
+  },
+  "examPaper":null,
+  "id":10,
+  "stem":"方法",
+  "subjectLevel": {
+    "id":2,
+    "name":"medium",
+    "realName":"中等"
+  },"subjectType": {
+    "id":2,
+    "name":"check",
+    "realName":"复选题"
+  },"topic":{
+    "department":{
+      "id":1,
+      "name":"WebUI"
+    },
+    "id":8,
+    "title":"git"
+  },
+  "uploadTime":"2016-09-26",
+  "user":null
+},{
+  "analysis":"",
+  "answer":"A",
+  "choices":[{
+    "id":34,
+    "content":"",
+    "correct":false
+  },{
+    "id":33,
+    "content":"放的地方",
+    "correct":true
+  },{
+    "id":35,
+    "content":"",
+    "correct":false
+  },{
+    "id":36,"content":"","correct":false}],"department":{"id":1,"name":"WebUI"},"examPaper":null,"id":9,"stem":"方法","subjectLevel":{"id":2,"name":"medium","realName":"中等"},"subjectType":{"id":2,"name":"check","realName":"复选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":8,"title":"git"},"uploadTime":"2016-09-26","user":null},{"analysis":"","answer":"","choices":[{"id":30,"content":"","correct":false},{"id":32,"content":"","correct":false},{"id":31,"content":"","correct":false},{"id":29,"content":"","correct":false}],"department":{"id":1,"name":"WebUI"},"examPaper":null,"id":8,"stem":"","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":1,"name":"radio","realName":"单选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},"uploadTime":"2016-09-26","user":null},{"analysis":"","answer":"","choices":[{"id":25,"content":"","correct":false},{"id":26,"content":"","correct":false},{"id":28,"content":"","correct":false},{"id":27,"content":"","correct":false}],"department":{"id":1,"name":"WebUI"},"examPaper":null,"id":7,"stem":"","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":1,"name":"radio","realName":"单选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},"uploadTime":"2016-09-26","user":null},{"analysis":"大哥","answer":"D","choices":[{"id":23,"content":"吧","correct":false},{"id":24,"content":"打团","correct":true},{"id":22,"content":"你","correct":false},{"id":21,"content":"古风","correct":false}],"department":{"id":1,"name":"WebUI"},"examPaper":null,"id":6,"stem":"多发点","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":1,"name":"radio","realName":"单选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},"uploadTime":"2016-09-26","user":null},{"analysis":"fsdfsfdsfdsfdf","answer":"","choices":[{"id":17,"content":"String      number    boolean    null   undefined    Object","correct":true},{"id":18,"content":"hfhd","correct":false},{"id":20,"content":"fsdffdsf","correct":false},{"id":19,"content":"fdf","correct":false}],"department":{"id":1,"name":"WebUI"},"examPaper":null,"id":5,"stem":"javasript中数据类型","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":1,"name":"radio","realName":"单选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},"uploadTime":"2016-09-26","user":null},{"analysis":"fsdf","answer":"","choices":[{"id":14,"content":"fdf","correct":false},{"id":16,"content":"","correct":false},{"id":15,"content":"fdsf","correct":false},{"id":13,"content":"fdfds","correct":false}],"department":{"id":1,"name":"WebUI"},"examPaper":null,"id":4,"stem":"fd","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":1,"name":"radio","realName":"单选题"},"topic":{"department":{"id":2,"name":"JavaEE"},"id":9,"title":"CoreJava"},"uploadTime":"2016-09-26","user":null},{"analysis":"fsdf","answer":"","choices":[{"id":11,"content":"fds","correct":false},{"id":10,"content":"fsd","correct":false},{"id":12,"content":"fsdf","correct":false},{"id":9,"content":"fsd","correct":true}],"department":null,"examPaper":null,"id":3,"stem":"fsf","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":1,"name":"radio","realName":"单选题"},"topic":{"department":{"id":2,"name":"JavaEE"},"id":9,"title":"CoreJava"},"uploadTime":"2016-09-26","user":null},{"analysis":"controller为控制器，filter为过滤器","answer":"","choices":[{"id":6,"content":"service","correct":false},{"id":5,"content":"controller","correct":true},{"id":8,"content":"filter","correct":true},{"id":7,"content":"factory","correct":false}],"department":{"id":2,"name":"JavaEE"},"examPaper":null,"id":2,"stem":"以下哪个不是angular的服务创建方式","subjectLevel":{"id":2,"name":"medium","realName":"中等"},"subjectType":{"id":2,"name":"check","realName":"复选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},"uploadTime":"2016-09-21","user":null},{"analysis":"f","answer":"","choices":[{"id":1,"content":"b","correct":false},{"id":2,"content":"c","correct":false},{"id":4,"content":"e","correct":false},{"id":3,"content":"d","correct":true}],"department":{"id":2,"name":"JavaEE"},"examPaper":null,"id":1,"stem":"aaaaa","subjectLevel":{"id":1,"name":"easy","realName":"简单"},"subjectType":{"id":2,"name":"check","realName":"复选题"},"topic":{"department":{"id":1,"name":"WebUI"},"id":1,"title":"HTML"},"uploadTime":"2016-09-21","user":null}]
